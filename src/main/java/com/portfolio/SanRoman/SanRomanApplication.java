@@ -1,0 +1,13 @@
+package com.portfolio.SanRoman;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SanRomanApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SanRomanApplication.class, args);
+	}
+
+}

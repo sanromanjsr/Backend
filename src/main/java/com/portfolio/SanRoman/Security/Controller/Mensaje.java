@@ -1,9 +1,6 @@
 package com.portfolio.SanRoman.Security.Controller;
 
-/**
- *
- * @author Usuario
- */
+
 public class Mensaje {
 
     private String mensaje;

@@ -4,6 +4,7 @@ com\portfolio\SanRoman\Controller\CHys.class
 com\portfolio\SanRoman\Entity\Educacion.class
 com\portfolio\SanRoman\Security\Controller\AuthController.class
 com\portfolio\SanRoman\Security\Service\UsuarioService.class
+com\portfolio\SanRoman\Dto\dtoPersona.class
 com\portfolio\SanRoman\Dto\dtoEducacion.class
 com\portfolio\SanRoman\Security\Entity\UsuarioPrincipal.class
 com\portfolio\SanRoman\Service\Seducacion.class
@@ -32,7 +33,6 @@ com\portfolio\SanRoman\Repository\REducacion.class
 com\portfolio\SanRoman\Dto\dtoExperiencia.class
 com\portfolio\SanRoman\Security\Repository\iUsuarioRepository.class
 com\portfolio\SanRoman\Security\Enums\RolNombre.class
-com\portfolio\SanRoman\Interface\IPersonaService.class
 com\portfolio\SanRoman\Security\Dto\NuevoUsuario.class
 com\portfolio\SanRoman\Security\Entity\Rol.class
 com\portfolio\SanRoman\Security\jwt\JwtProvider.class

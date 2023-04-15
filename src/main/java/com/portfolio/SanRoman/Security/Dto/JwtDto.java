@@ -1,9 +1,7 @@
-
 package com.portfolio.SanRoman.Security.Dto;
 
 import java.util.Collection;
 import org.springframework.security.core.GrantedAuthority;
-
 
 public class JwtDto {
     private String token;
@@ -52,6 +50,4 @@ public class JwtDto {
     public void setAuthorities(Collection<? extends GrantedAuthority> authorities) {
         this.authorities = authorities;
     }
-    
-    
 }

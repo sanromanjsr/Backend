@@ -1,4 +1,3 @@
-
 package com.portfolio.SanRoman.Security.Entity;
 
 import java.util.HashSet;

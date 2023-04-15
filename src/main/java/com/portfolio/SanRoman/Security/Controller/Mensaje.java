@@ -1,6 +1,5 @@
 package com.portfolio.SanRoman.Security.Controller;
 
-
 public class Mensaje {
 
     private String mensaje;
@@ -21,5 +20,4 @@ public class Mensaje {
     public void setMensaje(String mensaje) {
         this.mensaje = mensaje;
     }
-
 }

@@ -14,6 +14,7 @@ C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Entity\Usuario.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Service\ImpPersonaService.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Service\Seducacion.java
+C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Dto\dtoPersona.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Controller\AuthController.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Entity\Educacion.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Repository\IPersonaRepository.java
@@ -21,7 +22,6 @@ C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Service\RolService.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Dto\LoginUsuario.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\jwt\JwtProvider.java
-C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Interface\IPersonaService.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Entity\UsuarioPrincipal.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Enums\RolNombre.java
 C:\Users\sanro\Documents\Argentina Programa\Portafolio\Backend\src\main\java\com\portfolio\SanRoman\Security\Service\UsuarioService.java

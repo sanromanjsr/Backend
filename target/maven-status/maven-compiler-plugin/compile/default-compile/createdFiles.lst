@@ -11,6 +11,7 @@ com\portfolio\SanRoman\Service\Seducacion.class
 com\portfolio\SanRoman\Security\Controller\Mensaje.class
 com\portfolio\SanRoman\Security\jwt\JwtEntryPoint.class
 com\portfolio\SanRoman\Repository\IPersonaRepository.class
+com\portfolio\SanRoman\WebConfig.class
 com\portfolio\SanRoman\Repository\Rhys.class
 com\portfolio\SanRoman\Service\Shys.class
 com\portfolio\SanRoman\Entity\hys.class

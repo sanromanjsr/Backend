@@ -1,4 +1,4 @@
-FROM amazoncorretto:18.0.1.1
+FROM amazoncorretto:19
 MAINTAINER Sanroman
-COPY target/SanRoman-0.0.1-SNAPSHOT.jar sanroman-app.jar
-ENTRYPOINT ["java", "-jar", "/sanroman-app.jar"]
+COPY target/SanRoman-0.0.1-SNAPSHOT.jar SanRoman-0.0.1-SNAPSHOT.jar
+ENTRYPOINT ["java", "-jar", "/SanRoman-0.0.1-SNAPSHOT.jar"]
